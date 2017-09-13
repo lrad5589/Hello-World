@@ -1,8 +1,2 @@
 # Hello-World
-This is my first github repository. 
-
-
-
-
-
-removed!
+REMOVING latest!
